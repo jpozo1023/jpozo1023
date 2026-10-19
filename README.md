@@ -11,7 +11,7 @@ IT Technician with a growing passion for cybersecurity. I'm building my skills t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/jonathan-pozo10/](https://www.linkedin.com/in/jonathan-pozo10/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jonathanpozo647@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pozo10/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jonathanpozo647@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jpozo1023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jpozo1023&theme=dark&hide_border=false)<br/>
