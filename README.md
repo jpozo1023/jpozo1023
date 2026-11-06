@@ -8,7 +8,9 @@ IT Technician with a growing passion for cybersecurity. I'm building my skills t
 - [CompTIA Security+](https://www.credly.com/badges/155d0335-e763-4e31-ab7b-1b2dc9d40c74/linked_in_profile)
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
-[Active Directory Lab](https://github.com/jpozo1023/Active-Directory-Lab-/tree/main)
+
+- [Active Directory Lab](https://github.com/jpozo1023/Active-Directory-Lab-/tree/main)
+- [Tenable Nessus Vulnerability Management Lab](https://github.com/jpozo1023/Tenable-Nessus-Vulnerability-Management-Lab)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pozo10/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jonathanpozo647@gmail.com) 
